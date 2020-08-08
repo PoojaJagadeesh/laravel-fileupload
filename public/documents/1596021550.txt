@@ -1,0 +1,16 @@
+ip : 139.59.89.240
+user : cyborg [sudo]
+
+pass: b&cEdK4--duAm"IQ=`p`_0e1Z9uU[pEM6IL
+
+mysql
+=====
+
+root : s)KmxDI@Ze-T8Z\+9h^iEm]l\;U^/V(=j+k
+
+test = database
+
+artisan code
+------------
+
+php artisan serve --host 0.0.0.0 --port 5000

@@ -10,8 +10,7 @@
 </head>
 <body>
 <div id="app">
-{{-- This is the vue component --}}
-<example-components></example-components>
+<file-upload-component1></file-upload-component1>
 </div>
 <script src="{{ asset('js/app.js') }}"></script>
 </body>
